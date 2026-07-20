@@ -52,7 +52,7 @@ These species represent different evolutionary distances, allowing investigation
 
 4. A phylogenetic tree was constructed to examine evolutionary relationships among the selected species.
 
-5. Conserved and variable sequence patterns observed within the alignment were examined and interpreted in relation to TP53 function and cancer biology.
+5. Sequence similarities and differences observed in the alignment were interpreted in the context of TP53 evolution and cancer suppression.
 
 ---
 

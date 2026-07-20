@@ -1,5 +1,3 @@
-# Scripts
-
 ## Overview
 
 This folder documents the computational workflow used for the comparative genomics analysis of TP53.

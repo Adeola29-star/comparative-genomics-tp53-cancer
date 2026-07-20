@@ -23,7 +23,7 @@ The objectives of this project were to:
 - Compare TP53 protein sequences from representative vertebrate species.
 - Investigate sequence similarity and evolutionary relationships among TP53 proteins.
 - Examine conserved and variable sequence patterns across species.
-- Construct a phylogenetic tree to visualise TP53 evolutionary relationships.
+- Construct a phylogenetic tree to visualise TP53 evolutionary relationships among the selected TP53 sequences.
 - Interpret how TP53 conservation relates to its essential role as a tumour suppressor.
 
 ---
